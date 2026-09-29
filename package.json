@@ -1,7 +1,7 @@
 {
-  "name": "nine-tigers-online-mvp",
+  "name": "zodiac-combat-sports-online-mvp",
   "version": "1.0.0",
-  "description": "Nine Tigers Online Platform - Kung Fu School Member Portal (Release 1 MVP)",
+  "description": "Zodiac Combat Sports Online - Kung Fu School Member Portal (Release 1 MVP)",
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js",
